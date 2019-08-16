@@ -1,1 +1,1 @@
-# ![FrontEnd Mania Repo](jfrontendmaniabanner.jpg)
+# ![FrontEnd Mania Repo](frontendmaniabanner.jpg)
