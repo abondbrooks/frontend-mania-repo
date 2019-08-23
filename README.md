@@ -1,6 +1,6 @@
 # ![FrontEnd Mania Repo](frontendmaniabanner.jpg)
 
-## Personal Projects
+## Personal Projects --> Checkout My Java Projects [Repo](https://github.com/azanaebondbrooks/java-mania-repo)
 * Mock Portfolio - Building a mock portfolio in React as a learning tool
     -  [Live Demo](https://abondbrooksreactportfolio.netlify.com/) - HTML/CSS , JavaScript , React
          - [Code Repo](https://bitbucket.org/itsjustnae/portfolio/src/master/) - Bitbucket
